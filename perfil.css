@@ -12,3 +12,11 @@ body {
     padding: 30px;
 
 }
+.perfil_card img {
+    widht:150px;
+    height:150px;
+    border-radius:50%
+}
+.perfil_card li {
+    text-align:left
+}
