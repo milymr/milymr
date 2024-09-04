@@ -1,0 +1,23 @@
+body {
+    font-family: "lexand";
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(240, 224, 240);
+    min-height: 100vh;
+}
+form {
+    background-color: #f3b1e3;
+    padding: 30px;
+    border-radius: 10px;
+    box-shadow: 0 2px 5px rgba(220, 162, 231, 0.1);
+}
+label {
+    display: block;
+    margin-bottom: 5px;
+}
+input, textarea {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 15px;
+}
